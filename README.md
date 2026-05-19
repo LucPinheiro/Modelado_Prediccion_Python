@@ -65,3 +65,47 @@ Para mejorar la visualización y comprensión de los resultados también se util
 ├── spotify_tracks.csv
 └── README.md
 
+# Visualizaciones del proyecto
+
+Gráficas generadas durante el análisis y entrenamiento de modelos del ejercicio `401.ipynb`.
+
+---
+
+## Distribución de popularidad
+
+En esta gráfica se representa cómo se distribuyen los valores de popularidad de las canciones dentro del dataset.
+
+<p align="center">
+  <img src="images/histograma_popularidad.png" width="700">
+</p>
+
+---
+
+## Distribución de géneros musicales
+
+Gráfico de barras con la frecuencia de aparición de los géneros musicales más comunes del dataset.
+
+<p align="center">
+  <img src="images/distribucion_generos.png" width="900">
+</p>
+
+---
+
+## Matriz de correlación
+
+Mapa de calor utilizado para analizar la relación entre las variables numéricas del dataset.
+
+<p align="center">
+  <img src="images/matriz_correlacion.png" width="900">
+</p>
+
+---
+
+## Validación cruzada de modelos
+
+Comparación del rendimiento de los modelos utilizando validación cruzada y la métrica R2.
+
+<p align="center">
+  <img src="images/validacion_cruzada_r2.png" width="700">
+</p>
+
