@@ -61,9 +61,6 @@ Para mejorar la visualización y comprensión de los resultados también se util
 ## Estructura del proyecto
 
 ```bash
-## Estructura del proyecto
-
-```bash
 ├── 401.ipynb
 ├── spotify_tracks.csv
 └── README.md
