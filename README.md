@@ -111,3 +111,51 @@ Comparación del rendimiento de los modelos utilizando validación cruzada y la 
   <img src="images/validacion_cruzada_r2.png" width="700">
 </p>
 
+## Comparación de modelos predictivos
+
+En las siguientes gráficas se comparan los valores reales frente a las predicciones obtenidas por cada modelo de regresión.
+
+La línea roja representa la predicción ideal. Cuanto más cerca estén los puntos de esa línea, mejor es el rendimiento del modelo.
+
+---
+
+### Regresión Lineal Simple
+
+<p align="center">
+  <img src="images/regresion_lineal_simple.png" width="900">
+</p>
+
+---
+
+### Regresión Lineal Múltiple
+
+<p align="center">
+  <img src="images/regresion_lineal_multiple.png" width="900">
+</p>
+
+---
+
+## Comparación de divisiones utilizando diferentes semillas
+
+En esta gráfica se puede observar cómo cambia la distribución de los datos al utilizar distintas semillas aleatorias (`random_state=74` y `random_state=10`) durante la división entre entrenamiento y prueba.
+
+Aunque el tamaño de los conjuntos se mantiene igual, las filas seleccionadas para entrenamiento cambian dependiendo de la semilla utilizada.
+
+<p align="center">
+  <img src="images/comparacion_semillas.png" width="1200">
+</p>
+---
+
+### Random Forest Regressor
+
+<p align="center">
+  <img src="images/random_forest.png" width="900">
+</p>
+
+---
+
+### Comparación conjunta de modelos
+
+<p align="center">
+  <img src="images/comparacion_modelos.png" width="1200">
+</p>
