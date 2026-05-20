@@ -134,26 +134,3 @@ La línea roja representa la predicción ideal. Cuanto más cerca estén los pun
 </p>
 
 ---
-
-### Regresión Lineal Simple
-
-<p align="center">
-  <img src="images/regresion_lineal_simple.png" width="900">
-</p>
-### Regresión Lineal Múltiple
-
-<p align="center">
-  <img src="images/regresion_lineal_multiple.png" width="900">
-</p>
-
----
-
-### Random Forest Regressor
-
-<p align="center">
-  <img src="images/random_forest.png" width="900">
-</p>
-
----
-
-
