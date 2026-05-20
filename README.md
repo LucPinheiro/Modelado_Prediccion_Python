@@ -120,7 +120,7 @@ Aunque el tamaño de los conjuntos se mantiene igual, las filas seleccionadas pa
 <p align="center">
   <img src="images/comparacion_semillas.png" width="1200">
 </p>
----
+
 
 ## Comparación de modelos predictivos
 
